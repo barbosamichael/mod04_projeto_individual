@@ -1,10 +1,14 @@
 # mod04_projeto_individual
 
 -Descricão:
+
 	-Curso Análise de dados. Resilia Educacão em
 	parceria com Ifood.
+ 
 	-Projeto individual do módulo 04.
+ 
 	-Analisar relatório de captacão de dados:
+ 
 		-Dados hipotéticos.
 		-Período: janela de 7 dias.
 
