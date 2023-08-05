@@ -1,21 +1,21 @@
 # mod04_projeto_individual
 
--Descricão:
+Descrição:
 
-	-Curso Análise de dados. Resilia Educacão em
+	-Curso Análise de dados. Resilia Educação em
 	parceria com Ifood.
  
 	-Projeto individual do módulo 04.
  
-	-Analisar relatório de captacão de dados:
+	-Analisar relatório de captação:
  
 		-Dados hipotéticos.
 		-Período: janela de 7 dias.
 
--Motivacão:
+Motivação:
 
 	*Responder as perguntas propostas para o case. 
-	*Utilizando a biblioteca de manipulaćão de dados Pandas.
+	*Utilizando a biblioteca de manipulação de dados Pandas.
 	*Realizar análise exploratória dos dados a partir dos conceitos 
 	de estatística básica.
 
