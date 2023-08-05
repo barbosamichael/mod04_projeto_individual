@@ -1,6 +1,6 @@
 # mod04_projeto_individual
 
-Descrição:
+## Descrição:
 
 	-Curso Análise de dados. Resilia Educação em
 	parceria com Ifood.
@@ -12,7 +12,7 @@ Descrição:
 		-Dados hipotéticos.
 		-Período: janela de 7 dias.
 
-Motivação:
+## Motivação:
 
 	*Responder as perguntas propostas para o case. 
 	*Utilizando a biblioteca de manipulação de dados Pandas.
@@ -20,7 +20,10 @@ Motivação:
 	de estatística básica.
 
 
-Tecnologias:
-	- Python
-	- Pandas
-	- Jupyter Notebook
+## Tecnologias:
+
+ - Python
+
+ - Pandas
+
+ - Jupyter Notebook
